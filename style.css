@@ -29,9 +29,6 @@ html {
   transition: all 1s;
   z-index: 300;
 }
-.btn1 a:hover{
-  color: black !important;
-}
 
 .display .spinner-container {
   opacity: 0;
@@ -325,10 +322,7 @@ html {
   opacity: 0;
   animation: moveBanner 1s 0.9s forwards;
 }
-.banner button:hover{
-    background-color: grey;
-    box-shadow: 0.4rem 0.4rem black;
-}
+
 @keyframes moveBanner {
   0% {
     transform: translateY(40rem) rotateY(-20deg);
