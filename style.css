@@ -990,7 +990,7 @@ html {
   display: flex;
   justify-content: center;
   align-items:center;
-  margin-top:10px;
+  margin-top:40px;
   
 }
 .row{
@@ -1012,6 +1012,9 @@ html {
     justify-content: center;
     align-items: center;
     margin: 2rem;
+  }
+  .container{
+    margin-top:15px
   }
   .text-white{
     display: flex;
