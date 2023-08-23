@@ -983,7 +983,7 @@ html {
   }
 }
 /*----------contact form --------8*/
-.container{
+.container-form{
   background-color: white;
   width: 100vw;
   height:51rem;
@@ -1013,7 +1013,7 @@ html {
     align-items: center;
     margin: 2rem;
   }
-  .container{
+  .container-form{
     margin-top:15px
   }
   .text-white{
